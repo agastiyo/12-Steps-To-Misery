@@ -219,7 +219,7 @@ GameObject:
   - component: {fileID: 445192654}
   - component: {fileID: 445192653}
   m_Layer: 5
-  m_Name: SpeakerImage
+  m_Name: CharacterImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
