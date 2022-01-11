@@ -12,7 +12,7 @@ public class NodeReader : MonoBehaviour
             if (b.GetString() == "start") {
                 graph.current = b;
                 break;
-                //make this node the starting point
+                //identify the starting node
             }
         }
     }
