@@ -166,3 +166,15 @@ Received Import Request.
   path: Assets/Sprites/Counter1.png
   artifactKey: Guid(b94ffe21dcaa3e04aaa9695119cca58d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Sprites/Counter1.png using Guid(b94ffe21dcaa3e04aaa9695119cca58d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '284066b402a90414a3baa6d77db7c44a') in 0.130983 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3623.207824 seconds.
+  path: Assets/Sprites/Sink1.piskel
+  artifactKey: Guid(85fd683e15e1cf94d88f452e271f2f17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sink1.piskel using Guid(85fd683e15e1cf94d88f452e271f2f17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2af6d233fd697be6703d175815193934') in 0.008271 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 60.062630 seconds.
+  path: Assets/Sprites/Sink1.piskel
+  artifactKey: Guid(85fd683e15e1cf94d88f452e271f2f17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sink1.piskel using Guid(85fd683e15e1cf94d88f452e271f2f17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5606c70d5a2603ef7470b01f3dd2e55b') in 0.006092 seconds 

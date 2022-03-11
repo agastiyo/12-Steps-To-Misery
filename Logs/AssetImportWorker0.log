@@ -172,3 +172,33 @@ Received Import Request.
   path: Assets/Sprites/Sink1.png
   artifactKey: Guid(3e81374a209036d48b32f33ab02dede1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Sprites/Sink1.png using Guid(3e81374a209036d48b32f33ab02dede1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87efc9af5178a282a8dd401349bdf12a') in 0.038406 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2939.200495 seconds.
+  path: Assets/Sprites/BackgroundRoom.png
+  artifactKey: Guid(270caa569e690cb4682322096a95cb25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/BackgroundRoom.png using Guid(270caa569e690cb4682322096a95cb25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd18771d3f6f4abad22c67f4c7b3fd77') in 0.161349 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 84.358673 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49103ddb131dee35ba8759c97ba2dd04') in 0.012805 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 459.802260 seconds.
+  path: Assets/Sprites/Sink1.piskel
+  artifactKey: Guid(85fd683e15e1cf94d88f452e271f2f17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sink1.piskel using Guid(85fd683e15e1cf94d88f452e271f2f17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fea3adca84c7f9c7e0380557d224661a') in 0.006501 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 139.593402 seconds.
+  path: Assets/Sprites/Sink1.png
+  artifactKey: Guid(3e81374a209036d48b32f33ab02dede1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sink1.png using Guid(3e81374a209036d48b32f33ab02dede1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cf964df0497e5556d9ef16a53c75e86') in 0.066001 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 60.010266 seconds.
+  path: Assets/Sprites/Sink1.png
+  artifactKey: Guid(3e81374a209036d48b32f33ab02dede1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sink1.png using Guid(3e81374a209036d48b32f33ab02dede1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62e4f23c3aad5cd58d3ba348b51423ce') in 0.060748 seconds 
